@@ -90,3 +90,15 @@ pipeline {
         }
     }
 }
+
+
+Notes to add variable in jenkins: this will help us to establish the password from jenkins to docker.
+![image](https://github.com/user-attachments/assets/c6541336-d972-4bc3-bf74-9b478b25b927)
+
+![image](https://github.com/user-attachments/assets/b6069b4a-5e24-41b9-821e-35e47d04bb5b)
+
+![image](https://github.com/user-attachments/assets/82fe2f2b-02ea-4891-8e04-a8e7ce5c68f7)
+
+
+
+
